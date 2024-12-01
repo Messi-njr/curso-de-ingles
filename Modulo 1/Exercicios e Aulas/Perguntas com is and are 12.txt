@@ -44,14 +44,14 @@ Soup
 
 3) Answer the question:
 
-Is he your husband
+Is he your husband?
 
 A- No, thank you. The check, please.
 B- No, he is my brother. (Resposta certa)
 
 4) Answer the question:
 
-You have three sisters, right
+You have three sisters, right?
 
 A-No, i have two sisters (Resposta certa)
 B-Yes, I am
