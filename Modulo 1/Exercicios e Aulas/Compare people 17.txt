@@ -30,4 +30,4 @@ Compare peaple = Comparar pessoas
 
 Similarities = Semelhanças 
 
-More outgoing = Mais extrivertida
+More outgoing = Mais extrovertida
