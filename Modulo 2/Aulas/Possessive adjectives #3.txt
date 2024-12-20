@@ -64,4 +64,47 @@ B-John's (correto)
 A-It's
 B-Its (correto)
 
+Explicação do Gemini(IA) 
+
+A função do apóstrofo ('s) em inglês
+O apóstrofo seguido de "s" ( 's ) em inglês tem duas funções principais:
+
+Indicar posse:
+
+Para substantivos singulares: Usamos 's para mostrar que algo pertence a alguém ou a algo.
+Exemplo: John's car (O carro de João)
+Para substantivos plurais que não terminam em s: Também usamos 's.
+Exemplo: Children's toys (Os brinquedos das crianças)
+Para substantivos plurais que terminam em s: Usamos apenas o apóstrofo.
+Exemplo: Girls' room (O quarto das meninas)
+Formar contrações:
+
+O apóstrofo substitui letras omitidas em palavras contraídas.
+Exemplos: He's (contração de he is), It's (contração de it is)
+O "s" sem apóstrofo
+Plural: O "s" sem apóstrofo é usado para formar o plural da maioria dos substantivos.
+Exemplos: books, cats, cars
+Em resumo:
+
+Forma	Significado	Exemplo
+'s	Posse ou contração	John's book, he's
+s	Plural	books, cats
+
+Exportar para as Planilhas
+Para que você entenda melhor, veja estes exemplos:
+
+Posse:
+The dog's bone (O osso do cachorro)
+My friend's house (A casa do meu amigo)
+The children's books (Os livros das crianças)
+Contração:
+She's happy (Ela está feliz)
+Let's go (Vamos)
+É importante lembrar que o português e o inglês têm regras diferentes para indicar posse. Em português, geralmente usamos a preposição "de".
+
+Em inglês: John's car
+Em português: O carro de João
+Agora, vamos a um exemplo mais complexo:
+
+The women's shoes are red. (Os sapatos das mulheres são vermelhos.)
 
