@@ -354,7 +354,7 @@ They oldest = A mais velha
 
 My girlfriend, my pet and me = Minha namorada, meu animal de estimação e eu
 
-I live with my dad , my mom, and my sister or brother = Eu moro com meu pai, minha mãe, minha irma  e meu irmão
+I live with my dad , my mom, and my sister or brother = Eu moro com meu pai, minha mãe, minha irmã  e meu irmão
 
 I grew up in a Family of + {number of numbers] = Eu cresci em uma família de + {número de números]
 
@@ -391,7 +391,7 @@ I can use 'What´s' and 'It´s'. = Posso usar 'What's' e 'It's'.
 
 Unpolite = Grosseiro
 
-Sorry, i didn´t understand = Descupe, eu não entendi 
+Sorry, i don´t understand = Descupe, eu não entendi 
 
 Sorry, can you repeat please = Descupe, você pode repetir por favor
 
