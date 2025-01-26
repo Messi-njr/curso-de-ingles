@@ -701,7 +701,7 @@ I watch TV before bed Monday to Thursday = Eu assisto TV antes de dormir de segu
 I read books everyday = Eu leio livros todos os dias 
 
 
-Play = Brincar ou jagar
+Play = Brincar ou jogar
 I play with my girls = Eu brinco com as minhas meninas 
 I dance on Friday = Eu danço as Sexta feira
 
@@ -1096,7 +1096,7 @@ Tree = Arvore
 2. Which word does not belong to the categories = Qual palavra não pertence às categorias
 
 A. Places in cities = Lugares nas cidades
-Café = 
+Café = Refeitorio
 Hospital = Hospital 
 Restaurant = Restaurante 
 Run(correto) = correr
@@ -1205,7 +1205,8 @@ Exercícios
 
 A: ___ you ___ vídeo games = Você joga videogame
    DO      PLAY
-B: Yes, I sometimes ____ games on my cell phone. = Sim, às vezes jogo no meu celular.            PLAY
+B: Yes, I sometimes ____ games on my cell phone. = Sim, às vezes jogo no meu celular.            
+                    PLAY
 
 2- Make questions and answers using the verb to do: 
 
@@ -1232,7 +1233,8 @@ B: Yes, he___ at the hospital = Sim, ele trabalha no hospital
 play(jogar)  have(tenho) eat(comer)
  watch(assistir)  work(trabalho)  like(gosto)
 
-A: ___ you and your Family __ soccer = você e sua família gostam de futebol              DO                        LIKE 
+A: ___ you and your Family __ soccer = você e sua família gostam de futebol            
+   DO                     LIKE 
 
 B: No, we ____ ____ it. = Não, nós não gostamos disso.
           don't like 
@@ -1245,7 +1247,8 @@ play(jogar)  have(tenho) eat(comer)
 
 A: What ___ your parents ___ on TV = O que seus pais assistem na TV
         do                watch 
-B: Not a lot! They ___ usually ___ TV. = Not a lot! They ___ usually ___ TV.                don't       watch 
+B: Not a lot! They ___ usually ___ TV. = Not a lot! They ___ usually ___ TV.                
+ 		   don't       watch 
 
 6- Make questions and answers using the verb to do:
 play(jogar)  have(tenho) eat(comer)
@@ -1371,7 +1374,7 @@ Flight = Tempo de voou
 
 Local currency = Moeda local
 
-Average cost of linving = 
+Average cost of linving = Custo médio de vida
 
 Tours = Turismo 
 
