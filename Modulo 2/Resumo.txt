@@ -209,7 +209,7 @@ Plural: O "s" sem apóstrofo é usado para formar o plural da maioria dos substa
 Exemplos: books, cats, cars
 Em resumo:
 
-Forma	Significado	Exemplo
+Forma	Significado	        Exemplo
 's	Posse ou contração	John's book, he's
 s	Plural	books, cats
 
